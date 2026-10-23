@@ -6,6 +6,10 @@ Menu details and dietary statements come from the cafe's own approved records. T
 
 ![Complete example](docs/preview.png)
 
+## Live demo
+
+[Try Cafe Menu to HTML](https://cafe-web-design.github.io/cafe-menu-to-html/). The demo runs in your browser; entered data is not uploaded by the tool. GitHub provides the hosting and handles request logs.
+
 ## Start locally
 
 Requires Node.js 22 or later. No runtime dependencies or account required.
