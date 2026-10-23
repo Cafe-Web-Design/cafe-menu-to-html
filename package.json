@@ -1,0 +1,22 @@
+{
+  "name": "cafe-menu-to-html",
+  "version": "0.1.0",
+  "description": "Turn structured cafe menu data into readable HTML with categories, prices and supplied dietary notes.",
+  "type": "module",
+  "private": false,
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test",
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "check": "node --test && node scripts/build.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cafe-Web-Design/cafe-menu-to-html.git"
+  },
+  "homepage": "https://cafewebdesign.uk/"
+}

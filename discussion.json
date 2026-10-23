@@ -1,0 +1,4 @@
+{
+  "title": "Which menu layouts are hardest to read on a phone",
+  "body": "Open the fictional cafe example at a narrow screen width. Tell us which item names, price formats or category structures need better handling. Share synthetic examples rather than another cafe's copied menu. [Cafe Web Design](https://cafewebdesign.uk/) maintains the converter. Suggestions about menu presentation belong here; please report reproducible import or rendering errors in Issues.\n\nStart with the [README](https://github.com/Cafe-Web-Design/cafe-menu-to-html#readme), then run the documented example locally."
+}

@@ -1,0 +1,63 @@
+{
+  "title": "The Willow Counter / fictional cafe menu",
+  "summary": "Approved input last updated 2026-10-23. Dietary information is supplied by the cafe.",
+  "groups": [
+    {
+      "category": "Coffee",
+      "items": [
+        {
+          "id": "coffee-1",
+          "category": "Coffee",
+          "item": "Flat white",
+          "description": "Two sizes, made to order.",
+          "price": "3.20",
+          "available": true,
+          "dietary_note": "Ask the cafe about available milk options.",
+          "priceDisplay": "£3.20"
+        },
+        {
+          "id": "coffee-2",
+          "category": "Coffee",
+          "item": "Large flat white",
+          "description": "The larger size.",
+          "price": "3.70",
+          "available": true,
+          "dietary_note": "",
+          "priceDisplay": "£3.70"
+        }
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "items": [
+        {
+          "id": "breakfast-1",
+          "category": "Breakfast",
+          "item": "Roasted mushrooms on toasted sourdough with seasonal leaves",
+          "description": "An example of a long item name that should wrap without losing its price.",
+          "price": "8.50",
+          "available": true,
+          "dietary_note": "Speak to staff about dietary requirements.",
+          "priceDisplay": "£8.50"
+        }
+      ]
+    },
+    {
+      "category": "Cakes",
+      "items": [
+        {
+          "id": "cake-1",
+          "category": "Cakes",
+          "item": "Seasonal cake",
+          "description": "Updated by the cafe when the selection changes.",
+          "price": "",
+          "available": false,
+          "dietary_note": "Ingredients vary. Ask staff before ordering.",
+          "priceDisplay": "Price to confirm"
+        }
+      ]
+    }
+  ],
+  "issues": [],
+  "markdown": "## Coffee\n\n- Flat white: £3.20; Ask the cafe about available milk options.\n- Large flat white: £3.70\n\n## Breakfast\n\n- Roasted mushrooms on toasted sourdough with seasonal leaves: £8.50; Speak to staff about dietary requirements.\n\n## Cakes\n\n- Seasonal cake: Price to confirm (Currently unavailable); Ingredients vary. Ask staff before ordering."
+}

@@ -1,0 +1,5 @@
+"id","category","item","description","price","available","dietary_note"
+"coffee-1","Coffee","Flat white","Two sizes, made to order.","3.20","true","Ask the cafe about available milk options."
+"coffee-2","Coffee","Large flat white","The larger size.","3.70","true",""
+"breakfast-1","Breakfast","Roasted mushrooms on toasted sourdough with seasonal leaves","An example of a long item name that should wrap without losing its price.","8.50","true","Speak to staff about dietary requirements."
+"cake-1","Cakes","Seasonal cake","Updated by the cafe when the selection changes.","","false","Ingredients vary. Ask staff before ordering."
