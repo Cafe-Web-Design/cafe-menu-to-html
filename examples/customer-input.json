@@ -1,0 +1,22 @@
+{
+  "business": "Example Corner Cafe",
+  "hours": "Breakfast until 11am. Coffee all day.",
+  "rows": [
+    {
+      "category": "Coffee",
+      "name": "Flat white",
+      "price": "3.20",
+      "description": "A double espresso with steamed milk.",
+      "note": "",
+      "availability": ""
+    },
+    {
+      "category": "Breakfast",
+      "name": "Mushrooms on toast",
+      "price": "7.50",
+      "description": "Garlic mushrooms, sourdough and fresh herbs.",
+      "note": "Ask the team about allergens.",
+      "availability": "Served until 11am"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "name": "cafe-menu-to-html",
-  "version": "0.1.0",
-  "description": "Turn structured cafe menu data into readable HTML with categories, prices and supplied dietary notes.",
+  "version": "0.2.0",
+  "description": "Turn your dishes, drinks and prices into a readable menu you can check, copy and print.",
   "type": "module",
   "private": false,
   "license": "MIT",
